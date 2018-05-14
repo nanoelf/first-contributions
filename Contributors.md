@@ -3753,3 +3753,4 @@
 - [Garret Sweetwood](https://github.com/gsweetwood)
 - [Connor Virzi](https://github.com/cvirzi-1)
 - [Pranav Maheshwari](https://github.com/Blazing-Loris)
+- [Paul Maher](https://github.com/nanoelf)
